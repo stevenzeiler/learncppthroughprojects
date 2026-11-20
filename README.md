@@ -6,7 +6,7 @@ Follow-along code for a C++ course on network programming: a `network-monitor` l
 
 ## Where it comes from
 
-The repo is named after the "Learn C++ through projects" course and talks to that course's practice server (`ltnm.learncppthroughprojects.com`). The exercise design belongs to the course authors, and Steven wrote this code while following along. No upstream repository or licence is recorded in the files **(inference)**.
+The repo is named after the "Learn C++ through projects" course and talks to that course's practice server (`ltnm.learncppthroughprojects.com`). The exercise design belongs to the course authors, and Steven wrote this code while following along **(inference)**. No upstream repository or licence is recorded in the files.
 
 ## What is in it
 
